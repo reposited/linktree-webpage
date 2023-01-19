@@ -8,14 +8,13 @@ HTML: Hyper Text Markup Language
 CSS: Cascading Style Sheets
 JS: A Scripting Language For Web Pages
 Vanta.JS: Animated Backgrounds
-</pre>
-    AUTH.
+
+AUTH.
  ______   _______  ______  _______
 |      \ |   ____||      ||   _   |
 |      / |  |___  |   ___||  | |  |
 |  |  |  |   ___| |  |    |  | |  |
 |  |\  \ |  |____ |  |    |  |_|  |
 |__| \__\|_______||__|    |_______|   
-
-            
-            P.S. There may-be frequent updates on this repository throughout time.
+</pre>
+P.S. There may-be frequent updates on this repository throughout time.
